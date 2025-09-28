@@ -64,5 +64,5 @@ Training scripts are fully configurable in train.py
 
 ## 👥 Authors
 
-Khadija Tagui
+Khadija Tagui &
 Nisrin Lasfer
