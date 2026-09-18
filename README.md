@@ -17,19 +17,22 @@ It combines TensorFlow, Stable-Baselines3 (PPO), and Streamlit to provide both b
 
 ## 📂 Project Structure
 
-DRL-Agent-for-n8n-Workflow/
 
+```
+
+DRL-Agent-for-n8n-Workflow/
 │── app.py                 # Streamlit UI
 │── train_agent.py         # DRL agent training loop
-│── predict.py              # Run predictions with a trained agent
-│── test_n8n.py               # Test script for n8n workflow interaction
-│── n8n_agent/               # DRL agent implementation
+│── predict.py             # Run predictions with a trained agent
+│── test_n8n.py            # Test script for n8n workflow interaction
+│── n8n_agent/             # DRL agent implementation
 │── ppo_n8n_agent.zip      # Trained PPO model
-│── ai_workflow.json         # Example n8n workflow
-│── sample_workflow.json  # Example n8n workflow
-│── requirements.txt        # Python dependencies
-│── README.md                # Project documentation
+│── ai_workflow.json       # Example n8n workflow
+│── sample_workflow.json   # Example n8n workflow
+│── requirements.txt       # Python dependencies
+│── README.md              # Project documentation
 
+```
 ## ⚡ Quickstart
 ### 1️⃣ Create and activate a virtual environment
 python -m venv .env
