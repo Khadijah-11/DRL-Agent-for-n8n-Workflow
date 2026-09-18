@@ -15,8 +15,10 @@ It combines TensorFlow, Stable-Baselines3 (PPO), and Streamlit to provide both b
 
 ✅ Modular code structure for easy customization and extension
 
-📂 Project Structure
+## 📂 Project Structure
+
 DRL-Agent-for-n8n-Workflow/
+
 │── app.py                 # Streamlit UI
 │── train_agent.py         # DRL agent training loop
 │── predict.py              # Run predictions with a trained agent
