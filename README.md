@@ -49,7 +49,11 @@ streamlit run app.py
 
 Here’s a walkthrough of the Streamlit interface:
 
-https://github.com/user-attachments/assets/69915613-dea4-4088-83b4-d40f5cf2a2c4
+
+
+https://github.com/user-attachments/assets/f3826280-87d5-4124-9a6e-621346383f50
+
+
 
 ## 📊 Training with PPO
 
